@@ -35,7 +35,7 @@
 <p align="center">
 
  <a href="https://github.com/Vickismartw123">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
+ <img title="Owner" src="https://img.shields.io/badge/SMART-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/Vickismartw123">
     <img src="https://img.shields.io/github/followers/Vickismartw123?style=flat-square&logo=github&color=darkred">
   </a>
