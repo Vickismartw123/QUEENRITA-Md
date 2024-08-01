@@ -8,22 +8,17 @@
 #    * @author : @SMARTTechInfo
 #    * @youtube : https://www.youtube.com/SMARTTechInfo
 #    * @description : QUEENRITA-Md ,A Multi-functional whatsapp bot md.
-#    * @version 1.3.9
+#    
 
 
- 
 
-FROM quay.io/Vickismartw123/QUEENRITA-v2
-RUN git clone https://github.com/Vickismartw123/QUEENRITA-Md-V5 /root/luv
+FROM quay.io/suhailtechinfo/suhail-v2
+RUN git clone https://github.com/SuhailTechInfo/Suhail-Md-V5 /root/luv
 RUN rm -rf /root/luv/.git
 WORKDIR /root/luv
 RUN npm install || yarn install
 EXPOSE 8000
 CMD ["npm","start" ] 
-
-
-
-
 
 
 
