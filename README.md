@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@SMARTo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://youtube.com/@SMART">
+    <img alt="QUEENRITA-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
